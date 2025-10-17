@@ -55,18 +55,6 @@ Para instrucciones detalladas de instalación, configuración y ejecución de ca
 
 ---
 
-## 🌐 Arquitectura
-
-┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────┐
-│ Frontend │ │ Backend BFF │ │ Rick and Morty API │
-│ Angular 18 │─────▶│ .NET 8 │─────▶│ rickandmortyapi.com│
-│ Port: 4200 │ │ Port: 7290 │ │ │
-└─────────────────┘ └─────────────────┘ └─────────────────────┘
-
-text
-
----
-
 ## ✨ Características
 
 ### Backend
@@ -95,7 +83,7 @@ text
 |--------|----------|-------------|
 | GET | `/api/Episode` | Lista de episodios |
 | GET | `/api/Episode/{id}` | Detalle de episodio |
-| GET | `/api/Character` | Lista de personajes |
+| GET | `/api/Character` | Lista de personajes | 
 | GET | `/api/Character/{id}` | Detalle de personaje |
 | GET | `/api/Location` | Lista de locaciones |
 | GET | `/api/Location/{id}` | Detalle de locación |
