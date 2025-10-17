@@ -1,11 +1,6 @@
 # Rick and Morty - Prueba Técnica Carsales
 
-![Autor](https://img.shields.io/badge/Autor-Iv%C3%A1n%20Mancilla-lightgrey)  
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-12.0-239120?logo=csharp&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8.0-512BD4?logo=dotnet&logoColor=white)  
-![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-18.2.21-DD0031?logo=angular&logoColor=white)  
+![Autor](https://img.shields.io/badge/Autor-Iv%C3%A1n%20Mancilla-lightgrey)  ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-12.0-239120?logo=csharp&logoColor=white)  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8.0-512BD4?logo=dotnet&logoColor=white)  ![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)  ![Angular](https://img.shields.io/badge/Angular-18.2.21-DD0031?logo=angular&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5+-3178C6?logo=typescript&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)  
 ![npm](https://img.shields.io/badge/npm-10+-CB3837?logo=npm&logoColor=white)  
